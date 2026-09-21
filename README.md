@@ -146,6 +146,10 @@ Detay ve tuzaklar: **[docs/HIDE-ROOT.md](docs/HIDE-ROOT.md)**
 - Yanlış partition flashlamak cihazı brickleyebilir. **Her zaman `stock_init_boot.img` yedeğini sakla.**
 - Bu rehber eğitim amaçlıdır. Cihazına yaptığın işlemlerin sorumluluğu sana aittir.
 
+> ⚠️ **YASAL UYARI:** Bu rehberi uygulayarak cihazının **brick olması, bootloop, veri kaybı,
+> garanti dışı kalma** gibi tüm riskleri kabul etmiş sayılırsın. Depo yazarları/kullanıcıları
+> hiçbir zarardan **sorumlu tutulamaz**. Tam metin: **[docs/DISCLAIMER.md](docs/DISCLAIMER.md)**
+
 ---
 
 ## Teşekkür / Kaynaklar

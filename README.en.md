@@ -147,6 +147,10 @@ Details and pitfalls: **[docs/HIDE-ROOT.md](docs/HIDE-ROOT.md)**
 - Flashing the wrong partition can brick the device. **Always keep the `stock_init_boot.img` backup.**
 - This guide is for educational purposes. You are responsible for what you do to your device.
 
+> ⚠️ **DISCLAIMER:** By applying this guide, you accept all risks including **bricking,
+> bootloop, data loss and voided warranty**. The authors/contributors cannot be held liable
+> for any damage. Full text: **[docs/DISCLAIMER.md](docs/DISCLAIMER.md)**
+
 ---
 
 ## Credits / Resources
