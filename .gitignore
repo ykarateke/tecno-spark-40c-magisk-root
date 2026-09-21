@@ -1,0 +1,35 @@
+# Firmware arşivleri ve büyük binary dosyaları - repoya dahil DEĞİL
+# (Bunlar çok büyük; harici olarak indir/backup et)
+*.7z
+*.zip
+*.rar
+*.pac
+*.tar
+*.tar.md5
+
+# Firmware / ROM imajları (stock_init_boot.img hariç - o repoda tutuluyor)
+boot.img
+super.img
+preloader*.img
+preloader*.bin
+*.img
+!stock_init_boot.img
+!magisk_patched_init_boot.img
+
+# Tool binary'ler (APK repoda tutulabilir, istersen kaldır)
+# *.apk
+
+# OS / editör / geçici
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+.DS_Store
+*.bak
+
+# MTK / dump çıktıları
+dump/
+backup/
+out/
+mtk_out.log
+mtk_err.log
